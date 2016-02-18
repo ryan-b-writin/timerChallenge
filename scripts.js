@@ -1,10 +1,13 @@
 var redDiv = document.getElementById("redDiv");
 var button = document.getElementById("button");
 
+var init = function() {
 redDiv.style.backgroundColor = "red";
 redDiv.style.height = "100px";
 redDiv.style.width = "100px";
+};
 
+init();
 // onClick event listener
 button.addEventListener("click",function(event) {
 console.log("button" );
@@ -21,6 +24,7 @@ var Double = function() {
 
 //undo changes after 3 sec.
 var Timer = function(div) {
-  
-
+  timeoutID = window.setTimeout(init, 3000);
+  timeoutID = window.setTimeout(console.log("timer"), 3000);
 };
+
