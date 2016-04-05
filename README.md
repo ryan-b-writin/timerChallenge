@@ -1,5 +1,18 @@
 ### Timer Challenge!
 
+>This repo contains my work on Front End Team Challenge #3.
+
+### Contributors:
+
+[David Cramb](https://github.com/davidcramb)
+[Callan Morrison](https://github.com/morecallan)
+[Ryan Bliton](https://github.com/ryan-b-writin)
+
+### How To Use:
+
+> Click on the button and watch as a div element changes size and shape right before your eyes!   
+> Then, wait three seconds and it will return to its original form.
+
 ### Instructions:
 
 1. Add a red, 100px x 100px div and a button to a basic HTML page
