@@ -1,6 +1,6 @@
 ### Timer Challenge!
 
->This repo contains my work on Front End Team Challenge #3.
+>This repo contains my group's work on Front End Team Challenge #3.
 
 ### Contributors:
 
