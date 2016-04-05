@@ -4,9 +4,9 @@
 
 ### Contributors:
 
-[David Cramb](https://github.com/davidcramb)
-[Callan Morrison](https://github.com/morecallan)
-[Ryan Bliton](https://github.com/ryan-b-writin)
+[David Cramb](https://github.com/davidcramb)  
+[Callan Morrison](https://github.com/morecallan)  
+[Ryan Bliton](https://github.com/ryan-b-writin)  
 
 ### How To Use:
 
